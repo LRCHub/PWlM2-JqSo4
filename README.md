@@ -1,0 +1,53 @@
+# Mokoma – Ammu, hautaa ja vaikene
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:20.51] Kasvot noen peitossa
+[00:22.36] Mieli yhtä mustana
+[00:25.08] Veitsen terä ruosteessa
+[00:27.16] Taito veitsen parina
+[00:37.16] 
+[00:30.35] En ole oppinut puhumaan
+[00:32.03] En tekojani tuntemaan
+[00:34.74] En yhdy puheensorinaan
+[00:36.80] En menneisyyttä ruotimaan
+[00:49.30] 
+[00:51.39] Piirteet peilipinnoista
+[00:54.14] Heijastuvat väärinä
+[00:56.59] Äänet kaikuna vastaavat
+[00:58.33] Eivät kuulosta tutulta
+[01:01.68] En ole miettinyt pitempään
+[01:03.61] En ole kaivanut syvempään
+[01:06.36] En tiedä mitä menin tekemään
+[01:08.35] En tiedä välitänkökään
+[01:19.35] 
+[01:23.56] Skjut, gräv och tig (Skjut, gräv och tig)
+[01:26.22] Ammu, hautaa ja vaikene
+[01:29.16] Skjut, gräv och tig (Skjut, gräv och tig)
+[01:31.93] Ammu, hautaa ja vaikene
+[01:43.43] 
+[01:38.82] Kädet käyvät itsestään
+[01:40.65] Huulet yhtyvät vapinaan
+[01:43.21] Pieni pala kerrallaan
+[01:45.10] Mieli minut murentaa
+[01:48.32] En ole toivonut kunniaa
+[01:50.52] En ole vaatinut mammonaa
+[01:52.93] Tahdon taakkani pudottaa
+[01:55.10] Pyydän yhtä ainoaa
+[02:04.10] 
+[01:59.08] Skjut, gräv och tig (Skjut, gräv och tig)
+[02:01.97] Ammu, hautaa ja vaikene
+[02:04.86] Skjut, gräv och tig (Skjut, gräv och tig)
+[02:07.40] Ammu, hautaa ja vaikene
+[02:18.90] 
+[02:39.54] Skjut, gräv och tig (Skjut, gräv och tig)
+[02:42.44] Ammu, hautaa ja vaikene
+[02:45.26] Skjut, gräv och tig (Skjut, gräv och tig)
+[02:47.90] Ammu, hautaa ja vaikene
+[02:59.40] 
+[02:51.08] Skjut, gräv och tig (Skjut, gräv och tig)
+[02:53.41] Ammu, hautaa ja vaikene
+[02:56.30] Skjut, gräv och tig (Skjut, gräv och tig)
+[02:59.16] Ammu, hautaa ja vaikene
+```
