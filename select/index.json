@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Ammu, hautaa ja vaikene",
+  "base_artist": "Mokoma",
+  "createdAt": "2026-03-03T13:24:01.068501Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ammu, hautaa ja vaikene",
+      "artist": "Mokoma",
+      "has_synced": true,
+      "path": "select/01_Ammu,_hautaa_ja_vaikene_Mokoma.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ammu, Hautaa Ja Vaikene",
+      "artist": "Mokoma",
+      "has_synced": false,
+      "path": "select/pl_01_Ammu,_Hautaa_Ja_Vaikene_Mokoma.txt"
+    }
+  ]
+}
